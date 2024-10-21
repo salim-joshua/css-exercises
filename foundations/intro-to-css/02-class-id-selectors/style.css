@@ -1,0 +1,19 @@
+.pink-bg {
+    background-color: rgb(246, 154, 154);
+    font-family: Verdana, sans-serif;
+}
+
+.big-text {
+    font-size: 30px;
+}
+
+#blue-text {
+    font-size: 40px;
+    color: rgb(0, 0, 255);
+}
+
+#green-bg-bold {
+    background-color: rgba(0, 255, 0, 0.6);
+    font-size: 30px;
+    font-weight: 600;
+}
